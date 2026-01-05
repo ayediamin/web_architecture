@@ -1,0 +1,219 @@
+{
+  "site": {
+    "name": "Architecture Logique",
+    "tagline": "Consulting, intelligence, cloud et sécurité pour des architectures qui livrent des résultats mesurables.",
+    "description": "Architecture Logique accompagne les organisations avec une approche claire, structurée et orientée résultats en consulting, intelligence d'affaires, cloud et sécurité.",
+    "url": "https://architecturelogique.ca"
+  },
+  "navigation": [
+    { "label": "Services", "href": "/services" },
+    { "label": "Solutions", "href": "/solutions" },
+    { "label": "Cloud & Sécurité", "href": "/cloud-securite" },
+    { "label": "Ressources", "href": "/ressources" },
+    { "label": "À propos", "href": "/a-propos" },
+    { "label": "Contact", "href": "/contact" }
+  ],
+  "hero": {
+    "title": "Accélérez vos décisions grâce à une architecture solide.",
+    "subtitle": "Des expertises complémentaires pour cadrer vos projets, sécuriser vos plateformes et transformer vos données en leviers d'impact.",
+    "primaryCta": { "label": "Parler à un expert", "href": "/contact" },
+    "secondaryCta": { "label": "Voir nos services", "href": "/services" },
+    "image": "/images/hero.svg"
+  },
+  "stats": [
+    { "label": "Mandats stratégiques livrés", "value": "+120" },
+    { "label": "Taux de satisfaction client", "value": "98%" },
+    { "label": "Accélération des délais", "value": "-35%" },
+    { "label": "Optimisation des coûts", "value": "-28%" }
+  ],
+  "services": [
+    {
+      "slug": "consulting",
+      "title": "Consulting",
+      "excerpt": "Cadrage, stratégie, gouvernance, accompagnement des équipes.",
+      "image": "/images/consulting.svg",
+      "sections": [
+        {
+          "title": "Ce que nous faisons",
+          "content": "Aligner les objectifs d'affaires, structurer la gouvernance et définir les priorités qui sécurisent vos investissements." 
+        },
+        {
+          "title": "Livrables",
+          "content": "Feuille de route, modèles de gouvernance, plans d'exécution et indicateurs de suivi adaptés à votre réalité." 
+        },
+        {
+          "title": "Méthode",
+          "content": "Ateliers collaboratifs, diagnostics rapides, et accompagnement des équipes jusqu'à l'autonomie." 
+        }
+      ]
+    },
+    {
+      "slug": "intelligence",
+      "title": "Intelligence",
+      "excerpt": "Données, indicateurs, qualité, optimisation des processus.",
+      "image": "/images/intelligence.svg",
+      "sections": [
+        {
+          "title": "Ce que nous faisons",
+          "content": "Structurer vos données, fiabiliser vos indicateurs et accélérer la prise de décision." 
+        },
+        {
+          "title": "Livrables",
+          "content": "Cadre de qualité des données, catalogue d'indicateurs et dashboards opérationnels." 
+        },
+        {
+          "title": "Méthode",
+          "content": "Diagnostic de maturité, ateliers métiers, et déploiement progressif des cas d'usage prioritaires." 
+        }
+      ]
+    },
+    {
+      "slug": "cloud",
+      "title": "Cloud",
+      "excerpt": "Architecture, migration, optimisation, automatisation, FinOps.",
+      "image": "/images/cloud.svg",
+      "sections": [
+        {
+          "title": "Ce que nous faisons",
+          "content": "Définir l'architecture cible, planifier les migrations et automatiser vos opérations cloud." 
+        },
+        {
+          "title": "Livrables",
+          "content": "Plans de migration, patterns d'architecture, pipelines d'automatisation et cadre FinOps." 
+        },
+        {
+          "title": "Méthode",
+          "content": "PoC ciblés, migration par vagues et optimisation continue des coûts et performances." 
+        }
+      ]
+    },
+    {
+      "slug": "securite",
+      "title": "Sécurité",
+      "excerpt": "Bonnes pratiques, IAM, durcissement, DevSecOps, conformité.",
+      "image": "/images/securite.svg",
+      "sections": [
+        {
+          "title": "Ce que nous faisons",
+          "content": "Renforcer votre posture de sécurité, intégrer l'IAM et protéger vos actifs critiques." 
+        },
+        {
+          "title": "Livrables",
+          "content": "Cartographie des risques, plans de durcissement, contrôles automatisés et exigences de conformité." 
+        },
+        {
+          "title": "Méthode",
+          "content": "Approche DevSecOps, tests continus et accompagnement pour l'adhésion des équipes." 
+        }
+      ]
+    }
+  ],
+  "solutions": [
+    {
+      "slug": "modernisation-applicative",
+      "title": "Modernisation applicative",
+      "excerpt": "Refonte progressive des applications critiques pour accélérer l'innovation.",
+      "image": "/images/modernisation.svg",
+      "sections": [
+        {
+          "title": "Objectifs",
+          "content": "Réduire la dette technique, améliorer la maintenabilité et soutenir l'évolution des produits." 
+        },
+        {
+          "title": "Approche",
+          "content": "Audit, priorisation des refontes et trajectoire de modernisation alignée aux enjeux métiers." 
+        }
+      ]
+    },
+    {
+      "slug": "gouvernance-donnees",
+      "title": "Gouvernance des données",
+      "excerpt": "Structurer les responsabilités et sécuriser la valeur des données." ,
+      "image": "/images/gouvernance.svg",
+      "sections": [
+        {
+          "title": "Objectifs",
+          "content": "Clarifier la propriété des données et établir des standards robustes." 
+        },
+        {
+          "title": "Approche",
+          "content": "Cadre de gouvernance, rôles clés et plan d'industrialisation des contrôles." 
+        }
+      ]
+    },
+    {
+      "slug": "devsecops",
+      "title": "DevSecOps",
+      "excerpt": "Sécuriser les chaînes de livraison avec des contrôles continus.",
+      "image": "/images/devsecops.svg",
+      "sections": [
+        {
+          "title": "Objectifs",
+          "content": "Intégrer la sécurité dans chaque étape de livraison logicielle." 
+        },
+        {
+          "title": "Approche",
+          "content": "Automatisation des scans, politique as code et alignement des équipes." 
+        }
+      ]
+    },
+    {
+      "slug": "fiabilisation-ops",
+      "title": "Fiabilisation des opérations",
+      "excerpt": "Stabiliser vos opérations et améliorer la disponibilité des services.",
+      "image": "/images/ops.svg",
+      "sections": [
+        {
+          "title": "Objectifs",
+          "content": "Limiter les incidents et renforcer la résilience de vos plateformes." 
+        },
+        {
+          "title": "Approche",
+          "content": "Mise en place de SLO, optimisation des processus de support et automatisation." 
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "slug": "checklist-devsecops",
+      "title": "Checklist DevSecOps",
+      "excerpt": "Les contrôles essentiels pour sécuriser vos pipelines de livraison.",
+      "image": "/images/resources-1.svg",
+      "date": "2024-05-12",
+      "content": "Une checklist courte pour vérifier la présence de scans automatisés, de secrets management et de contrôles d'accès dans vos chaînes CI/CD." 
+    },
+    {
+      "slug": "guide-migration-cloud",
+      "title": "Guide de migration cloud",
+      "excerpt": "Structurer une migration efficace, sécurisée et rentable.",
+      "image": "/images/resources-2.svg",
+      "date": "2024-04-20",
+      "content": "Découvrez les étapes clés pour évaluer vos applications, planifier les vagues de migration et sécuriser les coûts cloud." 
+    },
+    {
+      "slug": "kpi-qualite-donnees",
+      "title": "KPI pour la qualité des données",
+      "excerpt": "Suivre les indicateurs qui garantissent la fiabilité décisionnelle.",
+      "image": "/images/resources-3.svg",
+      "date": "2024-03-05",
+      "content": "Mettez en place des indicateurs simples pour mesurer la complétude, la fraîcheur et la cohérence des données critiques." 
+    }
+  ],
+  "partners": [
+    { "name": "Partner One", "logo": "/images/logo-partner-1.svg" },
+    { "name": "Partner Two", "logo": "/images/logo-partner-2.svg" },
+    { "name": "Partner Three", "logo": "/images/logo-partner-3.svg" },
+    { "name": "Partner Four", "logo": "/images/logo-partner-4.svg" }
+  ],
+  "contact": {
+    "email": "contact@architecturelogique.ca",
+    "phone": "+1 (000) 000-0000",
+    "location": "Québec / Montréal"
+  },
+  "cta": {
+    "title": "Prêts à structurer votre prochaine transformation ?",
+    "subtitle": "Un échange rapide pour comprendre vos priorités et proposer un plan d'action concret.",
+    "button": { "label": "Nous contacter", "href": "/contact" }
+  }
+}
