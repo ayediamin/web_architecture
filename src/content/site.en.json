@@ -1,0 +1,43 @@
+{
+  "site": {
+    "name": "Architecture Logique",
+    "tagline": "Consulting, intelligence, cloud, and security for reliable architectures.",
+    "description": "Architecture Logique supports organizations with clear, outcome-driven consulting across intelligence, cloud, and security.",
+    "url": "https://architecturelogique.ca"
+  },
+  "navigation": [
+    { "label": "Services", "href": "/services" },
+    { "label": "Solutions", "href": "/solutions" },
+    { "label": "Cloud & Security", "href": "/cloud-securite" },
+    { "label": "Resources", "href": "/ressources" },
+    { "label": "About", "href": "/a-propos" },
+    { "label": "Contact", "href": "/contact" }
+  ],
+  "hero": {
+    "title": "Build decisive architectures.",
+    "subtitle": "A focused team to frame your initiatives, secure platforms, and unlock data value.",
+    "primaryCta": { "label": "Talk to an expert", "href": "/contact" },
+    "secondaryCta": { "label": "Explore services", "href": "/services" },
+    "image": "/images/hero.svg"
+  },
+  "stats": [
+    { "label": "Strategic engagements", "value": "+120" },
+    { "label": "Client satisfaction", "value": "98%" },
+    { "label": "Delivery acceleration", "value": "-35%" },
+    { "label": "Cost optimization", "value": "-28%" }
+  ],
+  "services": [],
+  "solutions": [],
+  "resources": [],
+  "partners": [],
+  "contact": {
+    "email": "contact@architecturelogique.ca",
+    "phone": "+1 (000) 000-0000",
+    "location": "Québec / Montréal"
+  },
+  "cta": {
+    "title": "Ready to move forward?",
+    "subtitle": "Let’s align on priorities and build a concrete plan.",
+    "button": { "label": "Contact", "href": "/contact" }
+  }
+}
